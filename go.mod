@@ -1,4 +1,4 @@
-module github.com/Yash-Handa/logo-ls
+module github.com/brumhard/logo-ls
 
 go 1.15
 
