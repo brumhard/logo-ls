@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Yash-Handa/logo-ls/assets"
-	"github.com/Yash-Handa/logo-ls/internal/api"
-	"github.com/Yash-Handa/logo-ls/internal/ctw"
-	"github.com/Yash-Handa/logo-ls/internal/sysState"
+	"github.com/brumhard/logo-ls/assets"
+	"github.com/brumhard/logo-ls/internal/api"
+	"github.com/brumhard/logo-ls/internal/ctw"
+	"github.com/brumhard/logo-ls/internal/sysState"
 	"github.com/mattn/go-colorable"
 )
 

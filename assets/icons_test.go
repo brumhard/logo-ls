@@ -9,8 +9,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/Yash-Handa/logo-ls/assets"
-	"github.com/Yash-Handa/logo-ls/internal/ctw"
+	"github.com/brumhard/logo-ls/assets"
+	"github.com/brumhard/logo-ls/internal/ctw"
 	"golang.org/x/crypto/ssh/terminal"
 )
 
